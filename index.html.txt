@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Physiotherapy Visits | Thane</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f5f7fa;
+    color: #333;
+}
+header {
+    background-color: #2b7cff;
+    color: white;
+    padding: 35px;
+    text-align: center;
+}
+section {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px 20px;
+}
+h2 {
+    color: #2b7cff;
+}
+.services li {
+    background: white;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 6px;
+}
+.contact-box {
+    background: #e8f0ff;
+    padding: 25px;
+    border-radius: 8px;
+}
+footer {
+    background-color: #2b7cff;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* WhatsApp Button */
+.whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25D366;
+    color: white;
+    padding: 14px 18px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+.whatsapp:hover {
+    background-color: #1ebe5d;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Physiotherapy Visits</h1>
+<p>Home Physiotherapy Services in Thane</p>
+<p><strong>BPT – Qualified Physiotherapist</strong></p>
+</header>
+
+<section>
+<h2>About Us</h2>
+<p>
+Physiotherapy Visits provides professional home physiotherapy services in Thane,
+focused on pain relief, mobility improvement, and recovery at home.
+</p>
+</section>
+
+<section>
+<h2>Our Services</h2>
+<ul class="services">
+<li>Orthopedic Physiotherapy</li>
+<li>Post-Operative Rehabilitation</li>
+<li>Neurological Physiotherapy</li>
+<li>Geriatric Physiotherapy</li>
+<li>Sports Injury Rehabilitation</li>
+<li>Pain Management Therapy</li>
+</ul>
+</section>
+
+<section>
+<h2>Why Choose Us?</h2>
+<ul>
+<li>Qualified BPT Physiotherapist</li>
+<li>Personalized Home Care</li>
+<li>Evidence-Based Treatment</li>
+<li>Convenient Home Visits</li>
+</ul>
+</section>
+
+<section id="contact">
+<h2>Contact & Appointment</h2>
+<div class="contact-box">
+<p><strong>📞 Phone / WhatsApp:</strong> 9325767937</p>
+<p><strong>📍 Location:</strong> Thane</p>
+<p><strong>🏠 Service:</strong> Home Visits Only</p>
+</div>
+</section>
+
+<footer>
+<p>© 2026 Physiotherapy Visits | Thane</p>
+</footer>
+
+<!-- WhatsApp Click Button -->
+<a class="whatsapp" 
+   href="https://wa.me/919325767937?text=Hello%20I%20need%20physiotherapy%20home%20visit"
+   target="_blank">
+   💬 WhatsApp
+</a>
+
+</body>
+</html>
